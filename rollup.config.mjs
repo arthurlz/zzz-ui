@@ -19,7 +19,7 @@ export default {
     },
     {
       file: 'dist/umd.js',
-      name: 'Uis',
+      name: 'UIS',
       format: "umd",
       globals: {
         'react': 'React',
